@@ -1,4 +1,5 @@
 # pong-game
+Make a pong game using python.
 ## What I learned:
 - turtle library
 - windsound library
